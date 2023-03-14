@@ -1,7 +1,7 @@
 <p align="center"> <img src="assets/hello.gif" alt="hello" /> </p>
 
 
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [ASHUTOSH BAUNTHIYAL]
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm ASHUTOSH BAUNTHIYAL
 
 <a href="https://www.linkedin.com/in/ashutosh-baunthiyal-50a136217">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
