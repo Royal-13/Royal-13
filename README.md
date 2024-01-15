@@ -16,13 +16,13 @@
 
  
 ### About Me 🚀
-I am pursuing B.tech CS🎓 from GRAPHIC ERA HILL UNIVERSITY DEHRADUN. I am a passionate about Machine Learning👨‍💻. </br>
+I am pursuing B.tech CS🎓 from GRAPHIC ERA HILL UNIVERSITY DEHRADUN. I am a passionate about Web Development👨‍💻. </br>
 I believe in challenges because they make better projects best. As someone who is passionate about contributing to and learning from the projects that contribute to society. </br>
 
  <p align="center"> <img src="assets/coder.gif" alt="codergif" /> </p>   
 
  
- 🌱 I’m currently learning : [Kubernetes](https://kubernetes.io/), [Machine Learning](https://scikit-learn.org/stable/)
+ 🌱 I’m currently learning : [Full Stack Web Development]
  
   
     
